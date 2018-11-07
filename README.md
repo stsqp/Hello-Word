@@ -2,4 +2,4 @@
 Just another repository!
 Hi!
 This is a test I like Java and Mysql!
-I'll work hard for it
+I'll work hard for it!
